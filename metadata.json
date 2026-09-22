@@ -1,0 +1,6 @@
+{
+  "name": "Secure Document Q&A Service",
+  "description": "Secure Document Q&A Service featuring FastAPI JWT authentication, Chroma vector retrieval, MCP stdio server, and LangGraph agent workflow with source citations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
